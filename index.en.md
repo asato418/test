@@ -5,24 +5,24 @@ Guide for Building and Using CI Services
 
 Introduction Procedure
 -----------------------
-*   [How to Start and Use Services] (./create-service.ja.md)
-*   [Setup File Reference] (./setup-yml.ja.md)
+*   [How to Start and Use Services] (./create-service.en.md)
+*   [Setup File Reference] (./setup-yml.en.md)
 
 
 Setting Procedures after Introduction
 -------------------------------------
-*   [How to Connect to Services](./access.ja.md)
-*   [Registering Users] (./add-user.ja.md)
-*   [GitLab Setup] (./gitlab.ja.md)
-*   [Jenkins Setup] (./jenkins.ja.md)
-*   [Kanban Board Setup] (./kanban.ja.md)
-*   [SonarQube Setup] (./sonar.ja.md)
-*   [Redmine Setup] (./redmine.ja.md)
+*   [How to Connect to Services](./access.en.md)
+*   [Registering Users] (./add-user.en.md)
+*   [GitLab Setup] (./gitlab.en.md)
+*   [Jenkins Setup] (./jenkins.en.md)
+*   [Kanban Board Setup] (./kanban.en.md)
+*   [SonarQube Setup] (./sonar.en.md)
+*   [Redmine Setup] (./redmine.en.md)
 
 References
 ------------
-*   [Command Reference] (./command.ja.md)
-*   [Setup File Reference] (./setup-yml.ja.md)
+*   [Command Reference] (./command.en.md)
+*   [Setup File Reference] (./setup-yml.en.md)
 
 
 Information Sources
