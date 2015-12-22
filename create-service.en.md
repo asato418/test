@@ -97,7 +97,7 @@ In this case, if you specify the `./create-config myservices` argument,
 `create-config` will read `setup.myservices.yml` and then be executed.
 
 For details on the description information of the setup files,
-refer to [Setup File Reference] (./setup-yml.ja.md). 
+refer to [Setup File Reference] (./setup-yml.en.md). 
 
 
 
@@ -113,12 +113,12 @@ cd bin
 
 ### How to access started services
 For details on how to access started CI services,
-refer to [How to Connect to Services] (./access.ja.md).
+refer to [How to Connect to Services] (./access.en.md).
 
 
 
 About Other Commands
 ------------------------
 For details on the command for stopping services and other commands,
-refer to [Command Reference] (./command.ja.md).
+refer to [Command Reference] (./command.en.md).
 
