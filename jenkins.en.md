@@ -104,8 +104,8 @@ the following additional work needs to be performed.
 You need to create a user for the Jenkins build and
 configure the settings to enable access to the GitLab group or project.
 
-Refer to [Registering Users] (./add-user.ja.md) for details on creating users and
-[GitLab Settings - B. Adding Members] (./gitlab.ja.md#b-)
+Refer to [Registering Users] (./add-user.en.md) for details on creating users and
+[GitLab Settings - B. Adding Members] (./gitlab.en.md#b-)
 for details on the access settings of GitLab.
 
 
