@@ -25,7 +25,7 @@ The service configuration type can be specified as an argument.
 ./create-config redmine
 ```
 
-For details, refer to [How to Start and Use Services] (./create-service.ja.md).
+For details, refer to [How to Start and Use Services] (./create-service.en.md).
 
 
 Starting and Stopping
