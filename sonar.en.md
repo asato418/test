@@ -19,7 +19,7 @@ Environment variable example:
 *   **SONAR_DB_PORT:** Port number of SonarQube database
 
 For details on other environment variables that can be used,
-refer to [sonar: section of Setup File Reference]  (./setup-yml.ja.md#sonar-).
+refer to [sonar: section of Setup File Reference]  (./setup-yml.en.md#sonar-).
 
 
 ### Java program setting example
